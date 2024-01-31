@@ -1,5 +1,3 @@
-# Kirill Kliavin
-
 ## Experience
 
 ### CTO/Solutions architect at Josef (2018 - now)
