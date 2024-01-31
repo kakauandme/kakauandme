@@ -1,6 +1,6 @@
 ## Experience
 
-### CTO/Solutions architect at Josef (2018 - now)
+### CTO/Solutions architect at Josef (2017 - now)
 
 As a co-founder of [Josef](https://joseflegal.com), I have spent the last ~7 years building and developing legal tech SaaS products that legal professionals across the globe use.
 
