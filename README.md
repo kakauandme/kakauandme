@@ -1,14 +1,3 @@
-# Kirill Kliavin
-
-```
-LinkedIn: https://www.linkedin.com/in/kirillkliavin/
-GitHub: https://github.com/kakauandme
-Email: k.kliavin@gmail.com
-Location: -37.8136, 144.9631
-```
-
-With my own business up and running in the hands of a team I'm incredibly proud of, I'm embarking on a new journey to explore the unknown. I'm passionate about problem-solving, simplicity, optimisation and exploring how those intersect harmoniously. Purposely embracing being outside my comfort zone, I'm ready to take on the next challenge.
-
 ## Experience
 
 ### CTO/Solutions architect at Josef (2017 - now)
