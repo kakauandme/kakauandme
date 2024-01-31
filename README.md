@@ -1,3 +1,14 @@
+# Kirill Kliavin
+
+```
+LinkedIn: https://www.linkedin.com/in/kirillkliavin/
+GitHub: https://github.com/kakauandme
+Email: k.kliavin@gmail.com
+Location: -37.8136, 144.9631
+```
+
+With my own business up and running in the hands of a team I'm incredibly proud of, I'm embarking on a new journey to explore the unknown. I'm passionate about problem-solving, simplicity, optimisation and exploring how those intersect harmoniously. Purposely embracing being outside my comfort zone, I'm ready to take on the next challenge.
+
 ## Experience
 
 ### CTO/Solutions architect at Josef (2017 - now)
@@ -25,7 +36,6 @@ I crafted digital solutions for diverse sectors, including government agencies, 
 ## Education
 
 Master of Computer Science at RMIT University, Australia (2011 - 2013)
-
 Bachelor of Applied Mathematics at Odesa National University, Ukraine (2005 - 2010)
 
 ## Skills
