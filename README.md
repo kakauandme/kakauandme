@@ -18,7 +18,7 @@ I spearheaded the development of [storePlayDisplay](http://www.storeplaydisplay.
 
 My role encompassed the entire development cycle, from initial architecture and prototyping to deployment and on-site installation. With a focus on a low-cost solution, I've developed a hardware device running a custom-built client application, just under $50 per item, accompanied by a cloud-based CMS for seamless admin and management.
 
-### Developer at Today (2011-2015)
+### Developer at Today (2011 - 2015)
 
 I crafted digital solutions for diverse sectors, including government agencies, local enterprises, and non-profit organisations. Notable projects include the [Business Victoria portal](https://business.vic.gov.au/), [KeepCup e-commerce platform](https://au.keepcup.com/) and the [Missing person guide](https://www.missingpersonsguide.com/).
 
