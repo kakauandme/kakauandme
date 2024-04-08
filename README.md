@@ -7,7 +7,7 @@ Email: k.kliavin@gmail.com
 Location: -37.8136, 144.9631
 ```
 
-Software Engineer and co-founder of legal tech start-up Josef, with over 13 years of experience across non-profit, government, start-ups and agency work. I recently exited Josef after 7 successful years of proudly building and developing legal SaaS tech. My professional career has been driven actively by my values-centric approach to engineering and design. I'm passionate about problem-solving, accessibility and inclusivity, optimisation and exploring how those intersect harmoniously.
+Software engineer and co-founder of legal tech start-up Josef, with over 13 years of experience across non-profit, government, start-ups and agency work. I recently exited Josef after 7 successful years of proudly building and developing legal SaaS tech. My professional career has been driven actively by my values-centric approach to engineering and design. I'm passionate about problem-solving, accessibility and inclusivity, optimisation and exploring how those intersect harmoniously.
 
 ## Experience
 
