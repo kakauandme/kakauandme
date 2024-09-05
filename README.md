@@ -55,11 +55,11 @@ Bachelor of Applied Mathematics at Odesa National University, Ukraine (2005 - 20
 
 ### Tech stack
 
-**ML/AI:** OpenAI API, Antropic API, Gemini API, Vertex AI, Langchain
-**Backend:** Python, node.js, .NET, PHP
-**Frontend:** Vue.js, Vite, React, SCSS, HTML5, Vanilla JS
-**CI/CD:** GitHub Actions, Terraform, Pulumi, TeamCity
-**QA**: Jenkins, Cypress, Puppeteer, Selenium, Postman
+**ML/AI:** OpenAI API, Antropic API, Gemini API, Vertex AI, Langchain  
+**Backend:** Python, node.js, .NET, PHP  
+**Frontend:** Vue.js, Vite, React, SCSS, HTML5, Vanilla JS  
+**CI/CD:** GitHub Actions, Terraform, Pulumi, TeamCity  
+**QA**: Jenkins, Cypress, Puppeteer, Selenium, Postman  
 **Cloud & Hosting:** Google Cloud Services, Cloudflare, Heroku, Amazon Web Services
 
 ## Personal
