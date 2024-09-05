@@ -53,6 +53,15 @@ Bachelor of Applied Mathematics at Odesa National University, Ukraine (2005 - 20
 - Strong foundation in algorithms & optimisation, with a focus on improving software performance and efficiency
 - Commitment to accessibility and UX, ensuring software is inclusive and intuitive for all users
 
+### Tech stack
+
+**ML/AI:** OpenAI API, Antropic API, Gemini API, Vertex AI, Langchain
+**Backend:** Python, node.js, .NET, PHP
+**Frontend:** Vue.js, Vite, React, SCSS, HTML5, Vanilla JS
+**CI/CD:** GitHub Actions, Terraform, Pulumi, TeamCity
+**QA**: Jenkins, Cypress, Puppeteer, Selenium, Postman
+**Cloud & Hosting:** Google Cloud Services, Cloudflare, Heroku, Amazon Web Services
+
 ## Personal
 
 When I'm not developing tech, you'll find me in nature or art. From surfing to cycling, Solstice Swims at Dark Mofo, and even running a marathon in Vietnam following a lost bet, I find balance when outdoors. I love to challenge myself and am never afraid of new heights, personally and professionally.
