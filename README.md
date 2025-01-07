@@ -4,12 +4,16 @@
 LinkedIn: https://www.linkedin.com/in/kirillkliavin/
 GitHub: https://github.com/kakauandme
 Email: k.kliavin@gmail.com
-Location: -37.8136, 144.9631
+Location: Amsterdam, Netherlands
 ```
 
 Software engineer and co-founder of legal tech start-up Josef, with over 13 years of experience across non-profit, government, start-ups and agency work. I recently exited Josef after 7 successful years of proudly building and developing legal SaaS tech. My professional career has been driven actively by my values-centric approach to engineering and design. I'm passionate about problem-solving, accessibility and inclusivity, optimisation and exploring how those intersect harmoniously.
 
 ## Experience
+
+### Innovation lab at Today ( 2024 - now)
+
+Exploring the bright possibilities of new tech and  AI. Today's innovation lab invites participants to explore, play, and innovate with the latest technologies. Together, we'll tackle complex challenges and develop impactful solutions that resonate on a societal level.
 
 ### CTO/Solutions architect at Josef (2017 - 2024)
 
@@ -34,7 +38,7 @@ My role encompassed the entire development cycle, from initial architecture and 
 - Developing a hardware device running a custom-built client application
 - Building a cloud-based CMS for seamless admin and management
 
-### Developer at Today (2011 - 2015)
+### Software engineer at Today (2011 - 2015)
 
 I crafted digital solutions for diverse sectors, including government agencies, local enterprises, and non-profit organisations. Notable projects include the [Business Victoria portal](https://business.vic.gov.au/), [KeepCup e-commerce platform](https://au.keepcup.com/) and the [Missing person guide](https://www.missingpersonsguide.com/).
 
