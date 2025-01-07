@@ -28,7 +28,7 @@ As co-founder of [Josef](https://joseflegal.com), I have spent the last ~7 years
 - Integrated the latest ML models and tools for proprietary use cases, utilising data indexing, search and Generative AI for policies and legal documents
 - Facilitated penetration testing and SOC II certification
 
-### Senior engineer at WeAreDigital (2015 - 2016)
+### Senior software engineer at WeAreDigital (2015 - 2016)
 
 I spearheaded the development of [storePlayDisplay](http://www.storeplaydisplay.com) - a custom digital signage service on embedded devices deployed in retail stores across Australia.
 
