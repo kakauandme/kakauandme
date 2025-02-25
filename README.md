@@ -15,7 +15,7 @@ Software engineer and co-founder of legal tech start-up Josef, with over 13 year
 
 Exploring the bright possibilities of new tech and  AI. Today's innovation lab invites participants to explore, play, and innovate with the latest technologies. Together, we'll tackle complex challenges and develop impactful solutions that resonate on a societal level.
 
-### CTO/Solutions architect at Josef (2017 - 2024)
+### CTO & Co-founder at Josef (2017 - 2024)
 
 As co-founder of [Josef](https://joseflegal.com), I have spent the last ~7 years building and developing legal tech SaaS products that legal professionals across the globe use.
 
