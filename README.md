@@ -16,12 +16,14 @@ Software engineer and co-founder of legal tech start-up Josef, with over 13 year
 Exploring the bright possibilities of new tech and  AI. Today's innovation lab invites participants to explore, play, and innovate with the latest technologies. Together, we'll tackle complex challenges and develop impactful solutions that resonate on a societal level.
 
 **Involvement**
-
-- Design iteration
-- Product architecture 
-- 0 to 1 prototyping
-- Development and shipping of digital products and services
-- Field user testing   
+- Led and facilitated early-stage ideation sessions, exploring emerging technologies and potential use cases.
+- Contributed to concept validation through rapid prototyping, user research, and low-fidelity experiments.
+- Designed and iterated product flows, interfaces, and experiences based on real-world feedback.
+- Defined technical architecture and development strategy for new products and services.
+- Built and launched 0-to-1 digital tools—from initial sketch to deployed product.
+- Ran field tests with real users to gather insights and guide iteration.
+- Collaborated cross-functionally with designers, engineers, and stakeholders to ensure practical, scalable outcomes.
+- Helped shape the lab's methods and culture for creative experimentation and applied innovation.  
 
 
 ### CTO & Co-founder at Josef (2017 - 2024)
