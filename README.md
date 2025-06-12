@@ -15,6 +15,15 @@ Software engineer and co-founder of legal tech start-up Josef, with over 13 year
 
 Exploring the bright possibilities of new tech and  AI. Today's innovation lab invites participants to explore, play, and innovate with the latest technologies. Together, we'll tackle complex challenges and develop impactful solutions that resonate on a societal level.
 
+**Involvement**
+
+- Design iteration
+- Product architecture 
+- 0 to 1 prototyping
+- Development and shipping of digital products and services
+- Field user testing   
+
+
 ### CTO & Co-founder at Josef (2017 - 2024)
 
 As co-founder of [Josef](https://joseflegal.com), I have spent the last ~7 years building and developing legal tech SaaS products that legal professionals across the globe use.
@@ -61,10 +70,10 @@ Bachelor of Applied Mathematics at Odesa National University, Ukraine (2005 - 20
 
 **ML/AI:** TensorFlow, PyTorch, Langchain, OpenAI API, Antropic API, Gemini API, Vertex AI  
 **Backend:** Python, node.js, .NET, PHP  
-**Frontend:** Vue.js, Vite, React, SCSS, HTML5, Vanilla JS  
+**Frontend:** Vue.js, React, Next.js, Nuxt, Vite, Tailwind, SCSS, HTML5, Vanilla JS  
 **CI/CD:** GitHub Actions, Terraform, Pulumi, TeamCity  
 **QA**: Jenkins, Cypress, Puppeteer, Selenium, Postman  
-**Cloud & Hosting:** Google Cloud Services, Cloudflare, Heroku, Amazon Web Services
+**Cloud & Hosting:** Google Cloud Services, Cloudflare, Vercel, Heroku, Amazon Web Services
 
 ## Personal
 
